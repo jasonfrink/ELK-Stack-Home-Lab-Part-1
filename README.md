@@ -6,4 +6,4 @@
 - Ingesting logs, such as Sysmon, from endpoints into the ELK stack
 - Understanding log management and visualization tools
 
-- 
+
